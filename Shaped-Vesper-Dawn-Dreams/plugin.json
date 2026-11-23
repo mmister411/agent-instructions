@@ -1,0 +1,32 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "shaped-vesper-dawn-dreams",
+  "version": "0.1.10",
+  "description": "Apply the  Shaped Vesper Dawn Dreams instruction discipline to image generation.",
+  "author": {
+    "name": "Plugin owner"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Shaped Vesper Dawn Dreams",
+        "shortDescription": "Cool sunset illustrations",
+        "longDescription": "Use the Shaped Vesper Dawn Dreams instruction discipline as written to translate provided content into images.",
+        "developerName": "Plugin owner",
+        "category": "Design",
+        "capabilities": [
+          "Interactive"
+        ],
+        "logo": "./assets/icon.svg",
+        "composerIcon": "./assets/icon.svg",
+        "brandColor": "#3D284D",
+        "brandColorDark": "#D18529",
+        "defaultPrompt": [
+          "Create Shaped Vesper Dawn Dreams scene variants from the text I provide.",
+          "Create a Shaped Vesper Dawn Dreams icon of the subject I describe.",
+          "Render the scene I describe in the Shaped Vesper Dawn Dreams style."
+        ]
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 ### Scene Mural Frieze
 
-Use this operation for full-scene composition. Apply the Vesper Dawn Harness throughout. Give user-specified rendering requirements precedence over operation defaults when provided.
+Use this operation for full-scene composition. Apply the style harness throughout. Give user-specified rendering requirements precedence over operation defaults when provided.
 
 #### Composition
 

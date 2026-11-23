@@ -11,7 +11,7 @@
 
 #### Figure and icon treatment
 
-- Default to a figure-like treatment, retaining dimensional suggestion, layered shapes, visual relationships, and the editorial illustration character of Shaped Vesper-Dawn Dreams.
+- Default to a figure-like treatment, retaining dimensional suggestion, layered shapes, visual relationships, and the editorial illustration character of MISADVISED.
 - When the request uses terms such as icon, symbol, or similar language, allow greater simplification, abstraction, and graphic economy as appropriate to the subject.
 - Allow a figure to retain more physical structure, gesture, or narrative activity. Allow an icon to reduce the subject to its most recognizable forms.
 - Treat these as degrees of treatment within the same visual discipline, not separate aesthetic styles.

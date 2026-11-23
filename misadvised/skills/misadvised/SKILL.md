@@ -59,13 +59,13 @@ Because the palette is tuned, the full palette is available at any prudent level
 
 ### Light, depth, and finish
 
-- Render directional, variable chiaroscuro lighting, shading, and tonal variation through layered shapes with crisp, distinct boundaries.
-- Permit subtle, controlled gradients where continuous tonal variation enhances atmosphere, illumination, depth, or spatial continuity. Keep gradients subordinate to discrete color fields, layered facets, and crisp geometric boundaries. Use values from the house palette for their color stops.
+- Develop lighting, shading, and tonal variation through layered shapes with crisp, distinct boundaries, employing directional chiaroscuro as appropriate to the subject and composition.
+- Permit subtle, controlled gradients where continuous tonal variation enhances atmosphere, illumination, depth, or spatial continuity. Keep contours and internal boundaries crisp, surfaces matte, and tonal regions distinct. Use values from the house palette for their color stops.
 - Forbid glow, bloom, photorealistic polish, 3D gloss, and intentionally painterly texture; these break the aesthetic.
 
 #### Stylization and fidelity
 
-- Introduce slight, restrained surrealism while keeping the depicted subject and its relationships legible.
+- Allow slight, restrained surrealism where it serves the subject or composition, while keeping the depicted subject and its relationships legible.
 - Depict the requested subject and its specified relationships directly, preserving recognizable attributes and actions. Construct the depiction within the house visual style rather than replacing the subject with generic symbols, allegories, or conventional iconography.
 - Preserve the requested entities, attributes, quantities, actions, and spatial relationships through simplification.
 - Do not pursue a corporate illustration look or flat-design look as an explicit style target.

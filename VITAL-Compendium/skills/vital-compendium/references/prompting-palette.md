@@ -8,7 +8,7 @@
 
 ## GitHub sync prompt
 
-I updated the [VITAL Compendium source on GitHub](https://github.com/mmister411/salvationelements/tree/main/VITAL-Compendium). Use Plugin Creator to sync those changes into the [existing VITAL Compendium plugin](https://chatgpt.com/plugins/plugins_6ae0581438e48191a54b57b7019cff79).
+I updated the [VITAL Compendium source on GitHub](https://github.com/mmister411/agent-instructions/tree/main/VITAL-Compendium). Use Plugin Creator to sync those changes into the [existing VITAL Compendium plugin](https://chatgpt.com/plugins/plugins_6ae0581438e48191a54b57b7019cff79).
 
 Use the GitHub revision I linked, or the current `main` if I didn’t specify a commit. Compare the `VITAL-Compendium/` directory at that revision with the current plugin release. Apply the source changes, including any renames and deletions, to the existing plugin. If you find a plugin-side change that conflicts with GitHub, show me the conflict before overwriting it.
 

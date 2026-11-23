@@ -18,4 +18,4 @@ The [VITAL prompting palette](skills/vital-compendium/references/prompting-palet
 
 ## GitHub home
 
-The corresponding GitHub home for VITAL Compendium is [salvationelements/VITAL-Compendium](https://github.com/mmister411/salvationelements/tree/main/VITAL-Compendium). Changes to the installed plugin and this repository require explicit synchronization.
+The corresponding GitHub home for VITAL Compendium is [agent-instructions/VITAL-Compendium](https://github.com/mmister411/agent-instructions/tree/main/VITAL-Compendium). Changes to the installed plugin and this repository require explicit synchronization.

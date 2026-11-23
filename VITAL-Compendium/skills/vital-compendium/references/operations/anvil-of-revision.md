@@ -43,7 +43,7 @@ Strict targets must be reconstructed in every instance, though the revision must
 
 Scrutiny targets require deliberate inspection every time, as they represent a high commonality of unhelpfulness to prose but need revision only when their local operation fails. 
 
-Inspect each named extended prosaic member under its definition in [Prose Rules Obviating Structurally Indeterminate Constructions (PROSAIC)](references/harness/prosaic.md).  These are not labels to guess their meaning but have very specific definitions under PROSAIC.
+Inspect each named extended prosaic member under its definition in [Prose Rules Obviating Structurally Indeterminate Constructions (PROSAIC)](../harness/prosaic.md).  These are not labels to guess their meaning but have very specific definitions under PROSAIC.
 
 - **Foggy Compression:** Terms appearing to make a determinate selection while leaving the operative meaning unresolved within a wider field of associations.
 - **Foilerplate:** Unwarranted opposition or contrastive framing, explicit or implicit, constructed to furnish rhetorical advantage to the focal claim.

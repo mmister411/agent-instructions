@@ -15,8 +15,8 @@ Use this operation for full-scene composition. Apply the style harness throughou
 #### Transparency and edge integration
 
 - Use a transparent background; do not manufacture a background field or backing solely to occupy otherwise transparent areas.
-- Apply localized opacity falloff selectively along the illustration’s outer perimeter. Preserve contours needed for subject recognition and keep internal facets crisp. Keep rendered text crisp and unfeathered.
-- Keep explicitly requested lettering crisp and unfeathered, in accordance with the Text branch of the Vesper Dawn Harness.
+- Apply localized opacity falloff selectively along the illustration’s outer perimeter. Preserve contours needed for subject recognition and keep internal boundaries crisp. Keep rendered text crisp and unfeathered.
+- Keep explicitly requested lettering crisp and unfeathered, in accordance with the Text branch of the MISADVISED Harness.
 
 #### Text placement
 

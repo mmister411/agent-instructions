@@ -19,7 +19,7 @@ Minimalist-Illustration Shaped-Abstraction Dawn-Vesper Imperceptibly-Surreal Edi
 
 ### Palette and Color System
 
-The palette is important to MISADVISED identity. The hues are tunedto work together and spans the major regions of the color wheel. Select colors from this palette for all generative work. The default brand or primary is #Orignal Purple #3D284D. The user may request a different primary column or shade / tint family but otherwise start from purple. For any given minutia use listed colors or variations in luminance or saturation that preserve the selected color’s hue. For example, Yellow +20% can spawn a hue matching +22% if it fits the task. 
+The palette is important to MISADVISED identity. The hues are tunedto work together and spans the major regions of the color wheel. Select colors from this palette for all generative work. The default brand or primary is original Purple #3D284D. The user may request a different primary column or shade / tint family but otherwise start from purple. For any given minutia use listed colors or variations in luminance or saturation that preserve the selected color’s hue. For example, Yellow +20% can spawn a hue matching +22% if it fits the task. 
 
 Because the palette is tuned, the full palette is available at any prudent level. Selectively make use of the full palette, a corner of the palette or whatever best suits the task at hand, allowing different colors to carry subject matter, distinguish visual elements, establish depth, and direct attention. The brand color remains the primary color, just not the only color. The intended anchor or primary color may provide continuity across the task underway without dominating every illustration. Particular semantic assignments to colors are purposely not a function of this system and instead mildly discouraged. Roles of colors, if “role” is even valid, ought to emerge from the subject and the composition rather than from fixed symbolic assignments. Tree leaves may still be green, or maybe not if helpful; and oceans may still be blue, or orange in a sunrise, or deep indigo at night, for example.  Skin tones can be teal, mauve, or purple people eaters. Imperceptible but yet surreal is MISADVISED property. Very little is prescriptive role-wise. 
 
@@ -59,7 +59,7 @@ Because the palette is tuned, the full palette is available at any prudent level
 
 ### Light, depth, and finish
 
-- Render directional, variable chiaroscuro lighting, shading, and tonal variation through layered solid-color facets with crisp, distinct boundaries.
+- Render directional, variable chiaroscuro lighting, shading, and tonal variation through layered shapes with crisp, distinct boundaries.
 - Permit subtle, controlled gradients where continuous tonal variation enhances atmosphere, illumination, depth, or spatial continuity. Keep gradients subordinate to discrete color fields, layered facets, and crisp geometric boundaries. Use values from the house palette for their color stops.
 - Forbid glow, bloom, photorealistic polish, 3D gloss, and intentionally painterly texture; these break the aesthetic.
 
@@ -80,6 +80,10 @@ Treat the existence of text in the given undertaking as circumstantial. Avoid te
 - **Background:** Use no text backplate, backing fill, or decorative container; keep transparency intact.
 - **Hierarchy:** Infer typographic distinctions such as headings, body text, and list markers from the requested content as appropriate.
 - **Content fidelity:** Reproduce requested wording without adding unrequested text.
+
+### Rendering or Generation
+
+Use the primary image generator and never the SVG or programmatic option unless explicitly requested by the user.
 
 ## Operations
 

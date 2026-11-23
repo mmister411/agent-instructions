@@ -13,75 +13,11 @@ Apply the Vesper Dawn Harness aesthetics to all operations. Treat operations as 
 
 - For every output, verify output count, separate files, requested format, transparency, requested aspect ratios, and operation-specific composition. Correct failed requirements before delivery.
 
+Read the corresponding file before executing a named operation.
 
-### Scene Mural Frieze
-
-Use this operation for full-scene composition. Apply the Vesper Dawn Harness throughout. Give user-specified rendering requirements precedence over operation defaults when provided.
-
-#### Composition
-
-- Compose a single continuous, asymmetrical editorial scene whose subjects, objects, landscapes, and narrative movement develop around a generous, centered caption field.
-- Preserve the central caption field as approximately 60% of the image width and 40% of its height in landscape; approximately 80% width and 33% height in portrait.
-- Treat the caption field as a centered bounding region, not a full-width strip or full-height corridor. Keep it substantially open and continuous; do not draw a frame or visible boundary.
-- Place primary subjects and visual weight toward the surrounding areas, distributing imagery asymmetrically along the edges, above, and below the caption field.
-- Allow minor intentional overlap into the caption field only where the remaining open region stays usable and continuous.
-- Adjust scale, zoom out, or redistribute illustrated elements as needed to preserve the requested subjects and relationships while maintaining central openness.
-- Let the perimeter imagery connect as a mural or frieze, guiding the eye through the composition rather than forming separate panels or scenes.
-
-#### Transparency and edge integration
-
-- Use a transparent background; do not manufacture a background field or backing solely to occupy otherwise transparent areas.
-- Apply localized opacity falloff selectively along the illustration’s outer perimeter. Preserve contours needed for subject recognition and keep internal facets crisp. Keep rendered text crisp and unfeathered.
-- Keep explicitly requested lettering crisp and unfeathered, in accordance with the Text branch of the Vesper Dawn Harness.
-
-#### Text placement
-
-- Leave the caption field empty unless the user explicitly requests visible text. This will be uncommon. When text is requested without a specified placement, set it within the central caption field.
-
-#### Default delivery
-
-- Produce six separate transparent PNG images unless the user specifies a different count or format: two at 16:9 landscape, two at 9:16 portrait, and two at 4:5 portrait.
-- Make each output one complete composition with one central caption field; do not assemble the variants into a collage, quadrant layout, or multi-panel image.
-- Compositional variation between outputs is not required. Make adjustments as needed for each aspect ratio; composition, pose, viewpoint, or visual emphasis may vary while the requested subjects, relationships, and style remain consistent across renders.
-
-
-### Standalone Figures and Icons
-
-#### Composition and transparency
-
-- Use for standalone illustrations of a specific subject, object, idea, activity, or interacting group intended for one-off use or downstream incorporation.
-- Suspend the central caption-field requirement. Make the subject or interacting group the compositional center, with negative space surrounding it rather than occupying its interior.
-- Allow the subject to determine proportion, orientation, and visual weight.
-- Maintain sufficient surrounding transparency for the illustration to stand independently and integrate naturally into downstream layouts.
-- Apply controlled, localized opacity falloff where illustrated material meets transparency, while preserving crisp internal geometry.
-- Require a transparent PNG background.
-
-#### Figure and icon treatment
-
-- Default to a figure-like treatment, retaining dimensional suggestion, layered shapes, visual relationships, and the editorial illustration character of Shaped Vesper-Dawn Dreams.
-- When the request uses terms such as icon, symbol, or similar language, allow greater simplification, abstraction, and graphic economy as appropriate to the subject.
-- Allow a figure to retain more physical structure, gesture, or narrative activity. Allow an icon to reduce the subject to its most recognizable forms.
-- Treat these as degrees of treatment within the same visual discipline, not separate aesthetic styles.
-
-#### Subject fidelity
-
-- Allow a figure or icon to contain a single subject or multiple interrelated elements, including interactions, actions, and spatial relationships necessary to convey the requested idea.
-- Preserve requested entities, attributes, quantities, actions, and relationships regardless of the degree of simplification.
-- Do not substitute generic symbolism for the requested subject.
-- Produce a complete, individually usable visual element that belongs naturally to the same visual world as the full scenes, without requiring the surrounding scene to give it meaning.
-
-#### Default delivery
-
-- Do not apply the full-scene render-count and aspect-ratio defaults to standalone figures and icons.
-- Produce the number requested, defaulting to three variant outputs at 1:1 aspect ratio when no count or aspect is specified.
-
-### Visual Information Composition
-
-Whether it's an Instagram post, reel still, PowerPoint slide or other insert, the majority of the rules for good composition remain the same, such as hierarchy, proportionality and the commanding of eyes or attention. The primary aspect that may vary by medium, which an image generator should consider, is the aspect ratio. Within the given ratio, the content establishes communicative requirements, and the compositional discipline governs how the content is visually realized within those constraints.
-
-The model is trained enough to be allowed some room to infer. The user often specifies various malleable constraints, including the platform, aspect ratio, progressive development in the form of carousels, and other related factors. The defaults are a 4:5 portrait as a single image for an Instagram post with Vesper Purple #Original as the central color. As with all operations, the Vesper Dawn Harness applies.
-
-Use the primary image generator and not the SVG or programmatic option.
+- [Scene Mural Frieze](references/operations/scene-mural-frieze.md)
+- [Standalone Figures and Icons](references/operations/standalone-figures-and-icons.md)
+- [Visual Information Composition](references/operations/visual-information-composition.md)
 
 ## Vesper Dawn Harness
 

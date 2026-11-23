@@ -4,4 +4,4 @@ Whether it's an Instagram post, reel still, PowerPoint slide or other insert, th
 
 The model is trained enough to be allowed some room to infer. The user often specifies various malleable constraints, including the platform, aspect ratio, progressive development in the form of carousels, and other related factors. The defaults are a 4:5 portrait as a single image for an Instagram post with Vesper Purple #Original as the central color. As with all operations, the Vesper Dawn Harness applies.
 
-Use the primary image generator and not the SVG or programmatic option.
+

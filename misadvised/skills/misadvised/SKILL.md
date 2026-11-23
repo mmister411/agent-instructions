@@ -79,7 +79,6 @@ Treat the existence of text in the given undertaking as circumstantial. Avoid te
 - **Color:** Use a solid fill drawn from either the light (+90%) or dark (-90%) end of the primary palette color, with extrapolation to ±95% permitted. Select the end that provides suitable contrast and legibility within the composition.
 - **Letterform rendering:** Use crisp, sharply defined text with hard edges. Sans or Serif are ok as fitting for the composition.
 - **Surface treatment:** Use solid fills without gradients, glow, bloom, haze, or feathering.
-- **Background:** Use no text backplate, backing fill, or decorative container; keep transparency intact.
 - **Hierarchy:** Infer typographic distinctions such as headings, body text, and list markers from the requested content as appropriate.
 - **Content fidelity:** Reproduce requested wording without adding unrequested text.
 
@@ -88,6 +87,8 @@ Treat the existence of text in the given undertaking as circumstantial. Avoid te
 Use the primary image generator and never the SVG or programmatic option unless explicitly requested by the user.
 
 ## Operations
+
+Apply user-specified composition, format, quantity, and delivery requirements ahead of operation defaults, while preserving the defining purpose of the requested operation.
 
 Read the corresponding file before executing a named operation.
 

@@ -53,14 +53,14 @@ Because the palette is tuned, the full palette is available at any prudent level
 - Construct subjects from solid, discrete color fields, layered shapes, and distinctly bounded tonal regions.
 - Let the subject and composition determine the contours, proportions, and relationships of those shapes, without imposing a preferred geometric vocabulary.
 - Develop form and depth through overlapping shapes, distinct color regions, and controlled tonal transitions. Preserve clarity of form and crisp boundaries without prescribing the geometry of individual contours.
-- Keep internal geometry crisp with hard-edged shapes, matte surfaces, and discrete tonal planes.
+- Keep contours and internal boundaries crisp, surfaces matte, and tonal regions distinct
 - Simplify fine details without losing recognizable identity, requested attributes, actions, quantities, or spatial relationships.
 - Render human figures with geometrically abstracted or featureless faces, allowing stylized hair where appropriate. Convey expression and character through posture, silhouette, and gesture.
 
 ### Light, depth, and finish
 
 - Develop lighting, shading, and tonal variation through layered shapes with crisp, distinct boundaries, employing directional chiaroscuro as appropriate to the subject and composition.
-- Permit subtle, controlled gradients where continuous tonal variation enhances atmosphere, illumination, depth, or spatial continuity. Keep contours and internal boundaries crisp, surfaces matte, and tonal regions distinct. Use values from the house palette for their color stops.
+- Permit subtle, controlled gradients where continuous tonal variation enhances atmosphere, illumination, depth, or spatial continuity. Keep gradients subordinate to discrete color fields, layered shapes, and crisp geometric boundaries. Use values from the house palette for their color stops.
 - Forbid glow, bloom, photorealistic polish, 3D gloss, and intentionally painterly texture; these break the aesthetic.
 
 #### Stylization and fidelity

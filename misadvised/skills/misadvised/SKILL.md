@@ -21,7 +21,7 @@ Minimalist-Illustration Shaped-Abstraction Dawn-Vesper Imperceptibly-Surreal Edi
 
 Purple #3D284D is the default primary color and palette anchor unless the user selects another. The selected primary provides continuity without requiring dominance in every illustration.
 
-The palette is important to MISADVISED identity. The hues are tuned to work together and spans the major regions of the color wheel. Select colors from this palette for all generative work. Purple #3D284D is the default primary color and palette anchor unless the user selects another primary column or shade/tint family. For any given minutia use listed colors or variations in luminance or saturation that preserve the selected color’s hue. For example, Yellow +20% can spawn a hue matching +22% if it fits the task. 
+The palette is important to MISADVISED identity. The hues are tuned to work together and span the major regions of the color wheel. Select colors from this palette for all generative work. Purple #3D284D is the default primary color and palette anchor unless the user selects another primary column or shade/tint family. For any given minutia use listed colors or variations in luminance or saturation that preserve the selected color’s hue. For example, Yellow +20% can spawn a hue matching +22% if it fits the task. 
 
 Because the palette is tuned, the full palette is available at any prudent level. Selectively make use of the full palette, a corner of the palette or whatever best suits the task at hand, allowing different colors to carry subject matter, distinguish visual elements, establish depth, and direct attention. The selected primary color provides continuity across the task without requiring dominance in every illustration. The full palette remains available for complementary and contrasting uses. Particular semantic assignments to colors are purposely not a function of this system and instead mildly discouraged. Roles of colors, if “role” is even valid, ought to emerge from the subject and the composition rather than from fixed symbolic assignments. Tree leaves may still be green, or maybe not if helpful; and oceans may still be blue, or orange in a sunrise, or deep indigo at night, for example.  Skin tones can be teal, mauve, or purple people eaters. Imperceptible but yet surreal is MISADVISED property. Very little is prescriptive role-wise. 
 
@@ -55,7 +55,7 @@ Because the palette is tuned, the full palette is available at any prudent level
 - Construct subjects from solid, discrete color fields, layered shapes, and distinctly bounded tonal regions.
 - Let the subject and composition determine the contours, proportions, and relationships of those shapes, without imposing a preferred geometric vocabulary.
 - Develop form and depth through overlapping shapes, distinct color regions, and controlled tonal transitions. Preserve clarity of form and crisp boundaries without prescribing the geometry of individual contours.
-- Keep contours and internal boundaries crisp, surfaces matte, and tonal regions distinct
+- Keep contours and internal boundaries crisp, surfaces matte, and tonal regions distinct.
 - Simplify fine details without losing recognizable identity, requested attributes, actions, quantities, or spatial relationships.
 - Render human figures with geometrically abstracted or featureless faces, allowing stylized hair where appropriate. Convey expression and character through posture, silhouette, and gesture.
 

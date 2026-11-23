@@ -7,7 +7,13 @@ description: Use when the user explicitly invokes MISADVISED. Its illustration i
 
 Minimalist-Illustration Shaped-Abstraction Dawn-Vesper Imperceptibly- Surreal Editorial Depictions
 
-This skill is a placeholder for future illustration instructions.
+## Operations
+
+Read the corresponding file before executing a named operation.
+
+- [Scene Mural Frieze](references/operations/scene-mural-frieze.md)
+- [Standalone Figures and Icons](references/operations/standalone-figures-and-icons.md)
+- [Visual Information Composition](references/operations/visual-information-composition.md)
 
 ## GitHub source
 

@@ -20,7 +20,7 @@ Use this operation for full-scene composition. Apply the style harness throughou
 
 #### Text placement
 
-- Leave the caption field empty unless the user explicitly requests visible text. This will be uncommon. When text is requested without a specified placement, set it within the central caption field.
+- Leave the caption field empty unless the user explicitly requests visible text. This will be uncommon. When text is requested without a specified placement, set it within the central caption field. When rendering text in the central caption field, use no text backplate, backing fill, or decorative container; keep the central transparency intact.
 
 #### Default delivery
 

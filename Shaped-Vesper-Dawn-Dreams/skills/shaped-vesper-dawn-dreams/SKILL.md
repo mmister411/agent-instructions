@@ -82,3 +82,7 @@ Read the corresponding file before executing a named operation.
 - [Scene Mural Frieze](references/operations/scene-mural-frieze.md)
 - [Standalone Figures and Icons](references/operations/standalone-figures-and-icons.md)
 - [Visual Information Composition](references/operations/visual-information-composition.md)
+
+## GitHub source
+
+The source for this plugin is in [mmister411/agent-instructions/Shaped-Vesper-Dawn-Dreams](https://github.com/mmister411/agent-instructions/tree/main/Shaped-Vesper-Dawn-Dreams). Changes are published to this plugin through Plugin Creator.

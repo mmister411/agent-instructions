@@ -42,7 +42,7 @@ Because the palette is tuned, the full palette is available at any prudent level
 
 #### Visual construction
 
-- Use minimalist vector editorial illustration; use clean, simplified geometric forms to construct figures, subjects, scapes, and situations.
+- Use minimalist editorial illustration; use clean, simplified geometric forms to construct figures, subjects, scapes, and situations.
 - Construct subjects from solid, discrete color fields, layered shapes, and facets.
 - Keep internal geometry crisp with hard-edged shapes, matte surfaces, and discrete tonal planes.
 - Simplify fine details without losing recognizable identity, requested attributes, actions, quantities, or spatial relationships.
@@ -51,7 +51,7 @@ Because the palette is tuned, the full palette is available at any prudent level
 ### Light, depth, and finish
 
 - Render directional, variable chiaroscuro lighting, shading, and tonal variation through layered solid-color facets with crisp, distinct boundaries.
-- Permit subtle, controlled gradients where continuous tonal variation enhances atmosphere, illumination, depth, or spatial continuity. Keep gradients subordinate to discrete color fields, layered facets, and crisp geometric boundaries, preserving compatibility with vector rendering. Use values from the house palette for their color stops.
+- Permit subtle, controlled gradients where continuous tonal variation enhances atmosphere, illumination, depth, or spatial continuity. Keep gradients subordinate to discrete color fields, layered facets, and crisp geometric boundaries. Use values from the house palette for their color stops.
 - Forbid glow, bloom, photorealistic polish, 3D gloss, and intentionally painterly texture; these break the aesthetic.
 
 #### Stylization and fidelity
@@ -59,14 +59,14 @@ Because the palette is tuned, the full palette is available at any prudent level
 - Introduce slight, restrained surrealism while keeping the depicted subject and its relationships legible.
 - Depict the requested subject and its specified relationships directly, preserving recognizable attributes and actions. Construct the depiction within the house visual style rather than replacing the subject with generic symbols, allegories, or conventional iconography.
 - Preserve the requested entities, attributes, quantities, actions, and spatial relationships through simplification.
-- Do not pursue a corporate illustration look or flat-design look as an explicit style target; allow any flatness to emerge from vector construction.
+- Do not pursue a corporate illustration look or flat-design look as an explicit style target.
 
 ### Text
 
 Treat the existence of text in the given undertaking as circumstantial. Avoid text scenery as filler or ambience, which is usually undesirable.
 
 - **Color:** Use a solid fill drawn from the +90% tint of the primary palette color, with +95% extrapolation permitted.
-- **Letterform rendering:** Use crisp, sharply defined vector text with hard edges.
+- **Letterform rendering:** Use crisp, sharply defined text with hard edges. Sans or Serif are ok as fitting for the composition.
 - **Surface treatment:** Use solid fills without gradients, glow, bloom, haze, or feathering.
 - **Background:** Use no text backplate, backing fill, or decorative container; keep transparency intact.
 - **Hierarchy:** Infer typographic distinctions such as headings, body text, and list markers from the requested content as appropriate.

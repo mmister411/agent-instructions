@@ -5,16 +5,23 @@ description: MISADVISED is a broad and general image generation style system. Wh
 
 # MISADVISED
 
-Minimalist-Illustration Shaped-Abstraction Dawn-Vesper Imperceptibly-Surreal Editorial Depictions is both the core asthetic 
+Minimalist-Illustration Shaped-Abstraction Dawn-Vesper Imperceptibly-Surreal Editorial Depictions is both the core aesthetic and the guiding statement behind the playfully yet deliberately chosen name **MISADVISED**.
+
+**Minimalist**, because fine-grained detail is generally undesirable.
+**Illustration**, because painterly, grainy, or heavily realistic treatments are contrary to the discipline.
+**Shaped-Abstraction**, because detail is reduced into deliberate, recognisable forms that remain abstracted without becoming overly simple.
+**Dawn-Vesper**, because the palette and tonal sensibility draw from cool sunset, warm twilight, and combinations of the two, without prescribing either dimness or brightness; lighting remains subordinate to task and composition, and the full palette is allowed to be available within this tonal sensibility.
+**Imperceptibly-Surreal**, because the work is not fully surreal and does not primarily seek dreaminess, yet reality may bend subtly where doing so better serves meaning, communication, or composition.
+**Editorial Depictions**, because these instructions are invoked where visual purpose, communicative intent, and interpretation are expected.
 
 
 ## MISADVISED Dawn Harness
 
 ### Palette and Color System
 
-The provided palette defines the earthy jewel tone hues used to evoke vesper or dawn, already tuned to work together and spans the major regions of the color wheel. Select colors from this palette for all generative work. The default brand or primary is original Purple #3D284D. The user may request a different primary column or shade / tint family. For any given minutia use listed colors or variations in luminance or saturation that preserve the selected color’s hue. For example, Yellow +20% can spawn a hue matching +22% if it fits the task. 
+The palette is important to MISADVISED identity. The hues are tunedto work together and spans the major regions of the color wheel. Select colors from this palette for all generative work. The default brand or primary is #Orignal Purple #3D284D. The user may request a different primary column or shade / tint family but otherwise start from purple. For any given minutia use listed colors or variations in luminance or saturation that preserve the selected color’s hue. For example, Yellow +20% can spawn a hue matching +22% if it fits the task. 
 
-Because the palette is tuned, the full palette is available at any prudent level. Selectively make use of the full palette, a corner of the palette or whatever best suits the task at hand, allowing different colors to carry subject matter, distinguish visual elements, establish depth, and direct attention. The intended anchor or primary color may provide continuity across the task underway without dominating every illustration. Particular semantic assignments to colors are purposely not a function of this system and instead mildly discouraged. Roles of colors, if “role” is even valid, ought to emerge from the subject and the composition rather than from fixed symbolic assignments.
+Because the palette is tuned, the full palette is available at any prudent level. Selectively make use of the full palette, a corner of the palette or whatever best suits the task at hand, allowing different colors to carry subject matter, distinguish visual elements, establish depth, and direct attention. The brand color remains the primary color, just not the only color. The intended anchor or primary color may provide continuity across the task underway without dominating every illustration. Particular semantic assignments to colors are purposely not a function of this system and instead mildly discouraged. Roles of colors, if “role” is even valid, ought to emerge from the subject and the composition rather than from fixed symbolic assignments. Tree leaves may still be green, or maybe not if helpful; and oceans may still be blue, or orange in a sunrise, or deep indigo at night, for example.  Skin tones can be teal, mauve, or purple people eaters. Imperceptible but yet surreal is MISADVISED property. Very little is prescriptive role-wise. 
 
 | Shade    | Purple | Orange | Blue   | Red    | Yellow | Magenta | Cyan   | Green  | Indigo |
 | -------- | ------ | ------ | ------ | ------ | ------ | ------- | ------ | ------ | ------ |
@@ -43,7 +50,9 @@ Because the palette is tuned, the full palette is available at any prudent level
 #### Visual construction
 
 - Use minimalist editorial illustration; use clean, simplified geometric forms to construct figures, subjects, scapes, and situations.
-- Construct subjects from solid, discrete color fields, layered shapes, and facets.
+- Construct subjects from solid, discrete color fields, layered shapes, and distinctly bounded tonal regions.
+- Let the subject and composition determine the contours, proportions, and relationships of those shapes, without imposing a preferred geometric vocabulary.
+- Develop form and depth through overlapping shapes, distinct color regions, and controlled tonal transitions. Preserve clarity of form and crisp boundaries without prescribing the geometry of individual contours.
 - Keep internal geometry crisp with hard-edged shapes, matte surfaces, and discrete tonal planes.
 - Simplify fine details without losing recognizable identity, requested attributes, actions, quantities, or spatial relationships.
 - Render human figures with geometrically abstracted or featureless faces, allowing stylized hair where appropriate. Convey expression and character through posture, silhouette, and gesture.

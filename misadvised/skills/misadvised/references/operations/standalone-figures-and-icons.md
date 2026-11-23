@@ -3,7 +3,7 @@
 #### Composition and transparency
 
 - Use for standalone illustrations of a specific subject, object, idea, activity, or interacting group intended for one-off use or downstream incorporation.
-- Suspend the central caption-field requirement. Make the subject or interacting group the compositional center, with negative space surrounding it rather than occupying its interior.
+- Make the subject or interacting group the compositional center, with negative space surrounding it rather than occupying its interior.
 - Allow the subject to determine proportion, orientation, and visual weight.
 - Maintain sufficient surrounding transparency for the illustration to stand independently and integrate naturally into downstream layouts.
 - Apply controlled, localized opacity falloff where illustrated material meets transparency, while preserving crisp internal geometry.

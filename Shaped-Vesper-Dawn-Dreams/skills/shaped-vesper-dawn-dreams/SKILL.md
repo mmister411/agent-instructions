@@ -7,18 +7,6 @@ description: Apply the Shaped Vesper-Dawn Dreams visual discipline to user-reque
 
 Apply the Vesper Dawn Harness aesthetics to all operations. Treat operations as potential prepackaged responses to user input. Execute the included operation when requested by name; otherwise, infer how to apply the Vesper Dawn Harness to the user’s requested rendering.
 
-## Operations
-
-**Production Verification**
-
-- For every output, verify output count, separate files, requested format, transparency, requested aspect ratios, and operation-specific composition. Correct failed requirements before delivery.
-
-Read the corresponding file before executing a named operation.
-
-- [Scene Mural Frieze](references/operations/scene-mural-frieze.md)
-- [Standalone Figures and Icons](references/operations/standalone-figures-and-icons.md)
-- [Visual Information Composition](references/operations/visual-information-composition.md)
-
 ## Vesper Dawn Harness
 
 ### Palette and Color System
@@ -82,3 +70,15 @@ Treat the existence of text in the given undertaking as circumstantial. Avoid te
 - **Background:** Use no text backplate, backing fill, or decorative container; keep transparency intact.
 - **Hierarchy:** Infer typographic distinctions such as headings, body text, and list markers from the requested content as appropriate.
 - **Content fidelity:** Reproduce requested wording without adding unrequested text.
+
+## Operations
+
+**Production Verification**
+
+- For every output, verify output count, separate files, requested format, transparency, requested aspect ratios, and operation-specific composition. Correct failed requirements before delivery.
+
+Read the corresponding file before executing a named operation.
+
+- [Scene Mural Frieze](references/operations/scene-mural-frieze.md)
+- [Standalone Figures and Icons](references/operations/standalone-figures-and-icons.md)
+- [Visual Information Composition](references/operations/visual-information-composition.md)

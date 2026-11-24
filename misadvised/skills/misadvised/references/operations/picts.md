@@ -8,6 +8,8 @@ PICTS is a form of conceptual typographic illustration using pictorial lettering
 
 PICTS letterforms function as pictorial containers. The harness's ordinary text color and solid-fill rules therefore do not govern their illustrated interiors or frame colors. The MISADVISED palette and visual language apply throughout.
 
+PICTS letterform containers have clear spacing inbetween to avoid overlap. 
+
 All colors and each individual letter's enclosed generated depiction follow the MISADVISED style harness. The individual scenes do NOT bleed outside of the frame of the letter but are bounded like a clipping mask.
 
 Together, the illustrated letters, each composition intelligible in its own right, form a word whose constituent imagery collectively articulates its meaning, subject, or narrative. The full word is rendered as a PNG with a transparent background.

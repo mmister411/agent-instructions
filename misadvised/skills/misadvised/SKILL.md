@@ -82,6 +82,8 @@ Treat the existence of text in the given undertaking as circumstantial. Avoid te
 - **Hierarchy:** Infer typographic distinctions such as headings, body text, and list markers from the requested content as appropriate.
 - **Content fidelity:** Reproduce requested wording without adding unrequested text.
 
+For PICTS, the letterforms function as pictorial containers. The ordinary text color and solid-fill rules do not override the illustrated interiors or the operation's frame color; the MISADVISED palette and visual language govern the pictorial compositions.
+
 ### Rendering or Generation
 
 Use the primary image generator and never the SVG or programmatic option unless explicitly requested by the user.
@@ -95,6 +97,7 @@ Read the corresponding file before executing a named operation.
 - [Scene Mural Frieze](references/operations/scene-mural-frieze.md)
 - [Standalone Figures and Icons](references/operations/standalone-figures-and-icons.md)
 - [Visual Information Composition](references/operations/visual-information-composition.md)
+- [PICTS](references/operations/picts.md)
 
 ## GitHub source
 

@@ -56,8 +56,8 @@ Because the palette is tuned, the full palette is available at any prudent level
 - Let the subject and composition determine the contours, proportions, and relationships of those shapes, without imposing a preferred geometric vocabulary.
 - Develop form and depth through overlapping shapes, distinct color regions, and controlled tonal transitions. Preserve clarity of form and crisp boundaries without prescribing the geometry of individual contours.
 - Keep contours and internal boundaries crisp, surfaces matte, and tonal regions distinct.
-- Simplify fine details without losing recognizable identity, requested attributes, actions, quantities, or spatial relationships.
-- Render human figures with geometrically abstracted or featureless faces, allowing stylized hair where appropriate. Convey expression and character through posture, silhouette, and gesture.
+- Be frugal or minimal with fine details without losing recognizable identity, requested attributes, actions, quantities, or spatial relationships.
+- Render human figures with geometrically abstracted faces of low detail, allowing stylized hair and coverings where appropriate. Shapes, shading, and imprints implying features is acceptable. Convey expression and character through posture, silhouette, and gesture more so than specifically face.
 
 ### Light, depth, and finish
 

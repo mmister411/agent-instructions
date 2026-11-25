@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "misadvised",
-  "version": "0.1.5",
+  "version": "0.1.10",
   "description": "Minimalist-Illustration Shaped-Abstraction Dawn-Vesper Imperceptibly-Surreal Editorial Depictions",
   "extensions": {
     "com.openai": {

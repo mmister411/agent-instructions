@@ -1,6 +1,6 @@
 ---
 name: misadvised
-description: MISADVISED is a broad and general image generation style system. Whenever invoked the included style harness applies. If no operation is called out, then infer composition but style obeys these skill instructions. 
+description: MISADVISED is a broad and general image generation style system. The included style harness applies with any overrides defined by the named operation. If no operation is called out, then infer composition but style obeys these skill instructions. 
 ---
 
 # MISADVISED
@@ -96,6 +96,7 @@ Read the corresponding file before executing a named operation.
 - [Standalone Figures and Icons](references/operations/standalone-figures-and-icons.md)
 - [Visual Information Composition](references/operations/visual-information-composition.md)
 - [PICTS](references/operations/picts.md)
+- [CALM-MIST](references/operations/calm-mist.md). Its single stroke color applies to linework and lettering. Its linework and transparency govern where the Dawn Harness calls for color fields, fills, or tonal shading.
 
 ## GitHub source
 

@@ -96,7 +96,7 @@ Read the corresponding file before executing a named operation.
 - [Standalone Figures and Icons](references/operations/standalone-figures-and-icons.md)
 - [Visual Information Composition](references/operations/visual-information-composition.md)
 - [PICTS](references/operations/picts.md)
-- [CALM-MIST](references/operations/calm-mist.md). Its single stroke color applies to linework and lettering. Its linework and transparency govern where the Dawn Harness calls for color fields, fills, or tonal shading.
+- [CALM-MIST](references/operations/calm-mist.md)
 
 ## GitHub source
 

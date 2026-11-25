@@ -40,3 +40,7 @@ CALM-MIST is a manner of rendering rather than a prescribed subject matter or em
 The aesthetic seeks a balance between visual economy, compositional sophistication, and semantic richness.
 
 **Simple in rendering. Sophisticated in composition. Intelligible in abstraction. Expressive in meaning.**
+
+## Rendering in MISADVISED
+
+The single stroke color applies to linework and lettering. CALM-MIST linework and transparency govern where the Dawn Harness calls for color fields, fills, or tonal shading.

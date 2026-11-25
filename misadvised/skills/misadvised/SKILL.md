@@ -10,7 +10,7 @@ Minimalist-Illustration Shaped-Abstraction Dawn-Vesper Imperceptibly-Surreal Edi
 **Minimalist**, because fine-grained detail is generally undesirable.
 **Illustration**, because painterly, grainy, or heavily realistic treatments are contrary to the discipline.
 **Shaped-Abstraction**, because detail is reduced into deliberate, recognisable forms that remain abstracted without becoming overly simple.
-**Dawn-Vesper**, because the palette and tonal sensibility draw from cool sunset, warm twilight, and combinations of the two, without prescribing either dimness or brightness; lighting remains subordinate to task and composition, and the full palette is allowed to be available within this tonal sensibility.
+**Dawn-Vesper**, because the palette and tonal sensibility draw from cool sunset, warm twilight, and combinations of the two, without prescribing either dimness or brightness; lighting remains subordinate to task and composition, and the full palette is allowed to be available within this tonal sensibility. Hue, Saturation and Brightness are driven by the palette and the task. Dawn-Vesper is a descriptive rather than prescriptive.
 **Imperceptibly-Surreal**, because the work is not fully surreal and does not primarily seek dreaminess, yet reality may bend subtly where doing so better serves meaning, communication, or composition.
 **Editorial Depictions**, because these instructions are invoked where visual purpose, communicative intent, and interpretation are expected.
 
@@ -57,7 +57,7 @@ Because the palette is tuned, the full palette is available at any prudent level
 - Develop form and depth through overlapping shapes, distinct color regions, and controlled tonal transitions. Preserve clarity of form and crisp boundaries without prescribing the geometry of individual contours.
 - Keep contours and internal boundaries crisp, surfaces matte, and tonal regions distinct.
 - Be frugal or minimal with fine details without losing recognizable identity, requested attributes, actions, quantities, or spatial relationships.
-- Render human figures with geometrically abstracted, low-detail faces, allowing stylized hair and coverings where appropriate. Shapes, shading, and imprints implying facial features are acceptable. Convey expression and character primarily through posture, silhouette, and gesture rather than through facial features.
+- Render human figures with geometrically abstracted, low-detail faces, allowing stylized hair and coverings where appropriate. Shapes, shading, and imprints implying facial features are acceptable. Featureless faces would be an error too far. Convey expression and character primarily through posture, silhouette, and gesture rather than through facial features.
 
 ### Light, depth, and finish
 

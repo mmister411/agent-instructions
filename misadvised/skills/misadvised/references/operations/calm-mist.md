@@ -17,7 +17,7 @@ CALM-MIST favors the composition of scenes in which subjects, environmental elem
 
 **Linework** — Lines serve as the primary means of representation, establishing contours, movement, spatial relationships, and defining characteristics with selective detail.
 
-**Monochrome** — The illustration employs a single color, deriving visual distinction through line weight, form, proportion, spacing, and composition. Default stroke color is #0B070D Deep Black Purple. 
+**Monochrome** — The illustration employs a single color, deriving visual distinction through line weight, form, proportion, spacing, and composition. Default stroke color is #70498E Medium Purple. 
 
 **Minimalist** — Subjects are rendered through their essential and expressive features. Visual economy preserves the intelligibility of the subject and the communicative substance of the scene.
 

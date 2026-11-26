@@ -94,7 +94,7 @@ Read the corresponding file before executing a named operation.
 
 - [Scene Mural Frieze](references/operations/scene-mural-frieze.md)
 - [Standalone Figures and Icons](references/operations/standalone-figures-and-icons.md)
-- [Visual Information Composition](references/operations/visual-information-composition.md)
+- [EDICT](references/operations/edict.md)
 - [PICTS](references/operations/picts.md)
 - [CALM-MIST](references/operations/calm-mist.md)
 

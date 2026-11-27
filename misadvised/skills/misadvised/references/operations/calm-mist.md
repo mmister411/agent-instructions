@@ -35,6 +35,8 @@ Sophistication emerges through the arrangement, interaction, and integration of 
 
 Language and illustration may share a formal structure. A phrase may follow the flight of a bee, constitute the contours of a landscape, or form part of an animal's anatomy. Such integration allows visual elements to perform linguistic, illustrative, and symbolic functions simultaneously.
 
+Typographic form and spatial arrangement are distinct compositional considerations. Letterforms, weight, spacing, and orientation may participate in the expressive and illustrative functions of language. Serif, sans-serif, script, display, and letterforms devised specifically for the calligram can all accord with a minimalist, smooth aesthetic. Typographic choices should remain coherent within the given composition.
+
 When text is sequentially related, favor a spatial arrangement that follows the natural reading order of the language (left to right, top to bottom for English).
 
 CALM-MIST is a manner of rendering rather than a prescribed subject matter or emotional atmosphere. Its formal qualities can accommodate serenity, majesty, strength, sorrow, movement, and other expressive subjects.
